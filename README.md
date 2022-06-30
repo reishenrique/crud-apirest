@@ -1,4 +1,4 @@
-# CRUD - API Restful
+# CRUD - API Rest
 
 ### Objetivos da API
 
